@@ -19,8 +19,8 @@ In this project you'll build an app that will keep track of memebers of a team. 
 
 ### Task 2: Minimum Viable Product
 
-- [ ] Render a list of team members from state.
-- [ ] Build a form to add a new member to the list of members.
+- [x] Render a list of team members from state.
+- [x] Build a form to add a new member to the list of members.
 
 #### Setup your state
 
@@ -33,7 +33,7 @@ In this project you'll build an app that will keep track of memebers of a team. 
 - [x] Create a `Form.js` file and build out your form markup.
 - [x] Build inputs for `name`, `email` and `role` (backend engineer, frontend engineer, designer, etc. Use your imagination).
 - [x] You will have to decide which component is responsible for maintaining the _state_ of the form (`Form` itself, or its parent `App`). Each approach has advantages and disadvantages.
-- [ ] Render your `Form` component in `App`. The `App` component should hand down through props any callback(s) needed for `Form` to do its job (adding new members to your team members state on submit).
+- [x] Render your `Form` component in `App`. The `App` component should hand down through props any callback(s) needed for `Form` to do its job (adding new members to your team members state on submit).
 
 Now you are finished with MVP! Move on to the stretch goals at the bottom. The first is to add the functionality to edit members. As this is a very complicated process, steps have been included here to help you through that.
 
@@ -80,4 +80,4 @@ After finishing your required elements, you can push your work further. These go
 
 ## Submission Format
 
-- [ ] Submit a link to your github repository in canvas.
+- [x] Submit a link to your github repository in canvas.
